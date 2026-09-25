@@ -1,0 +1,12 @@
+{
+  "short_name": "عيادة حسام",
+  "name": "عيادة الدكتور حسام الدين منصور",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f6f8f7",
+  "theme_color": "#244c63",
+  "orientation": "portrait",
+  "lang": "ar",
+  "dir": "rtl",
+  "icons": []
+}
